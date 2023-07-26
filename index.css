@@ -3,9 +3,9 @@
   display: flex;
   overflow: auto;
   min-height: 100vh;
-  align-items: flex-end;
+  align-items: center;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-end;
 }
 .home-image {
   top: 78px;
@@ -91,7 +91,7 @@
 .home-text11 {
   top: 1234px;
   left: var(--dl-space-space-twounits);
-  right: 250px;
+  right: 800px;
   position: absolute;
   font-size: 20px;
 }
@@ -173,9 +173,16 @@
   object-fit: cover;
 }
 .home-image7 {
-  top: 1196px;
-  right: 15px;
-  width: 220px;
+  top: 1152px;
+  right: 35px;
+  width: 300px;
+  position: absolute;
+  object-fit: cover;
+}
+.home-image8 {
+  top: 1225px;
+  left: 842px;
+  width: 350px;
   position: absolute;
   object-fit: cover;
 }
