@@ -50,7 +50,7 @@
 }
 .home-text05 {
   top: 423px;
-  left: 250px;
+  left: var(--dl-space-space-fourunits);
   position: absolute;
   font-size: 36px;
 }
@@ -91,7 +91,7 @@
 .home-text11 {
   top: 1234px;
   left: var(--dl-space-space-twounits);
-  right: 800px;
+  right: 750px;
   position: absolute;
   font-size: 20px;
 }
@@ -134,7 +134,7 @@
   font-size: 20px;
 }
 .home-image2 {
-  top: 428px;
+  top: 480px;
   left: 35px;
   width: 200px;
   position: absolute;
@@ -150,8 +150,7 @@
 }
 .home-image4 {
   top: 739px;
-  left: 1107px;
-  right: 500px;
+  right: 260px;
   width: 235px;
   height: 133px;
   position: absolute;
@@ -182,8 +181,7 @@
 }
 .home-image8 {
   top: 1225px;
-  left: 842px;
-  right: 500px;
+  right: 380px;
   width: 350px;
   position: absolute;
   object-fit: cover;
