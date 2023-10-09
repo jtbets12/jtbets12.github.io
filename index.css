@@ -189,18 +189,20 @@
 .home-link1 {
   top: 337px;
   left: 608px;
+  right: 700px;
   position: absolute;
 }
 .home-text15 {
   top: 70px;
   left: 1129px;
+  right: var(--dl-space-space-halfunit);
   position: absolute;
   font-size: 24px;
 }
 .home-text16 {
   top: 100px;
   left: 1129px;
-  right: 4px;
+  right: var(--dl-space-space-halfunit);
   position: absolute;
 }
 .home-text17 {
