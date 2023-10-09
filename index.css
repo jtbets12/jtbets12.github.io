@@ -5,7 +5,7 @@
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: flex-start;
 }
 .home-image {
   top: 78px;
@@ -21,7 +21,7 @@
   position: absolute;
 }
 .home-text01 {
-  top: 71px;
+  top: 70px;
   left: 320px;
   position: absolute;
   font-size: 24px;
@@ -185,4 +185,99 @@
   width: 350px;
   position: absolute;
   object-fit: cover;
+}
+.home-link1 {
+  top: 337px;
+  left: 608px;
+  position: absolute;
+}
+.home-text15 {
+  top: 70px;
+  left: 1129px;
+  position: absolute;
+  font-size: 24px;
+}
+.home-text16 {
+  top: 100px;
+  left: 1129px;
+  right: 4px;
+  position: absolute;
+}
+.home-text17 {
+  font-size: 20px;
+}
+.home-text18 {
+  font-size: 20px;
+}
+.home-text19 {
+  font-size: 20px;
+}
+.home-text20 {
+  font-size: 20px;
+}
+.home-text21 {
+  font-size: 20px;
+}
+.home-text22 {
+  font-size: 20px;
+}
+.home-text23 {
+  font-size: 20px;
+}
+.home-text24 {
+  font-size: 20px;
+}
+.home-text25 {
+  font-size: 20px;
+}
+.home-text26 {
+  font-size: 20px;
+}
+.home-text27 {
+  font-size: 20px;
+}
+.home-text28 {
+  font-size: 20px;
+}
+.home-text29 {
+  font-size: 20px;
+}
+.home-text30 {
+  font-size: 20px;
+}
+.home-text31 {
+  font-size: 20px;
+}
+.home-text32 {
+  font-size: 20px;
+}
+.home-text33 {
+  font-size: 20px;
+}
+.home-text34 {
+  font-size: 20px;
+}
+.home-text35 {
+  font-size: 20px;
+}
+.home-text36 {
+  font-size: 20px;
+}
+.home-text37 {
+  font-size: 20px;
+}
+.home-text38 {
+  font-size: 20px;
+}
+.home-text39 {
+  font-size: 20px;
+}
+.home-text40 {
+  font-size: 20px;
+}
+.home-text41 {
+  font-size: 20px;
+}
+.home-text42 {
+  font-size: 20px;
 }
