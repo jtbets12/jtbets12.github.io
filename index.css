@@ -131,7 +131,8 @@
   top: 1098px;
   left: 450px;
   position: absolute;
-  font-size: 20px;
+  font-size: 30px;
+  color: #ff0000;
 }
 .home-image2 {
   top: 480px;
@@ -191,6 +192,8 @@
   left: 608px;
   right: 700px;
   position: absolute;
+  font-size: 30px;
+  color: #ff0000;
 }
 .home-text15 {
   top: 70px;
